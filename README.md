@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Multi-Agent IELTS Writing Examiner
 
 This project leverages a multi-agent system built with **LangGraph** and **Google's Gemini Pro** to provide a detailed, automated evaluation of IELTS Writing tasks. It simulates a panel of expert IELTS examiners, where each agent specializes in one of the four official scoring criteria:
